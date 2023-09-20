@@ -1,0 +1,10 @@
+C:\Users\nguye\OneDrive\Desktop\Nam_3_Ki_1\Lập Trình Trực Quan\Thực Hành\Buổi 2\example\example\bin\Debug\example.exe.config
+C:\Users\nguye\OneDrive\Desktop\Nam_3_Ki_1\Lập Trình Trực Quan\Thực Hành\Buổi 2\example\example\bin\Debug\example.exe
+C:\Users\nguye\OneDrive\Desktop\Nam_3_Ki_1\Lập Trình Trực Quan\Thực Hành\Buổi 2\example\example\bin\Debug\example.pdb
+C:\Users\nguye\OneDrive\Desktop\Nam_3_Ki_1\Lập Trình Trực Quan\Thực Hành\Buổi 2\example\example\obj\Debug\example.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\Nam_3_Ki_1\Lập Trình Trực Quan\Thực Hành\Buổi 2\example\example\obj\Debug\example.Form1.resources
+C:\Users\nguye\OneDrive\Desktop\Nam_3_Ki_1\Lập Trình Trực Quan\Thực Hành\Buổi 2\example\example\obj\Debug\example.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Desktop\Nam_3_Ki_1\Lập Trình Trực Quan\Thực Hành\Buổi 2\example\example\obj\Debug\example.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Desktop\Nam_3_Ki_1\Lập Trình Trực Quan\Thực Hành\Buổi 2\example\example\obj\Debug\example.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\Nam_3_Ki_1\Lập Trình Trực Quan\Thực Hành\Buổi 2\example\example\obj\Debug\example.exe
+C:\Users\nguye\OneDrive\Desktop\Nam_3_Ki_1\Lập Trình Trực Quan\Thực Hành\Buổi 2\example\example\obj\Debug\example.pdb
