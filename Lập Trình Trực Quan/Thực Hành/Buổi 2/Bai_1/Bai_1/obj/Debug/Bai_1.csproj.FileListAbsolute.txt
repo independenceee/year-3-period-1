@@ -1,0 +1,10 @@
+C:\Users\nguye\OneDrive\Desktop\year-3-period-1\Lập Trình Trực Quan\Thực Hành\Buổi 2\Bai_1\Bai_1\obj\Debug\Bai_1.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\year-3-period-1\Lập Trình Trực Quan\Thực Hành\Buổi 2\Bai_1\Bai_1\obj\Debug\Bai_1.Form1.resources
+C:\Users\nguye\OneDrive\Desktop\year-3-period-1\Lập Trình Trực Quan\Thực Hành\Buổi 2\Bai_1\Bai_1\obj\Debug\Bai_1.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Desktop\year-3-period-1\Lập Trình Trực Quan\Thực Hành\Buổi 2\Bai_1\Bai_1\obj\Debug\Bai_1.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Desktop\year-3-period-1\Lập Trình Trực Quan\Thực Hành\Buổi 2\Bai_1\Bai_1\obj\Debug\Bai_1.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\year-3-period-1\Lập Trình Trực Quan\Thực Hành\Buổi 2\Bai_1\Bai_1\bin\Debug\Bai_1.exe.config
+C:\Users\nguye\OneDrive\Desktop\year-3-period-1\Lập Trình Trực Quan\Thực Hành\Buổi 2\Bai_1\Bai_1\bin\Debug\Bai_1.exe
+C:\Users\nguye\OneDrive\Desktop\year-3-period-1\Lập Trình Trực Quan\Thực Hành\Buổi 2\Bai_1\Bai_1\bin\Debug\Bai_1.pdb
+C:\Users\nguye\OneDrive\Desktop\year-3-period-1\Lập Trình Trực Quan\Thực Hành\Buổi 2\Bai_1\Bai_1\obj\Debug\Bai_1.exe
+C:\Users\nguye\OneDrive\Desktop\year-3-period-1\Lập Trình Trực Quan\Thực Hành\Buổi 2\Bai_1\Bai_1\obj\Debug\Bai_1.pdb

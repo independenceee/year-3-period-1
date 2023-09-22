@@ -41,7 +41,7 @@
             this.listBox1 = new System.Windows.Forms.ListBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.tongTin = new System.Windows.Forms.TextBox();
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.textBox3 = new System.Windows.Forms.TextBox();
@@ -75,9 +75,10 @@
             this.btnThemVaoDanhSach.Name = "btnThemVaoDanhSach";
             this.btnThemVaoDanhSach.Size = new System.Drawing.Size(161, 47);
             this.btnThemVaoDanhSach.TabIndex = 8;
-            this.btnThemVaoDanhSach.Text = "Thêm vào danh sách";
+            this.btnThemVaoDanhSach.Text = "Thêm vào &danh sách";
             this.btnThemVaoDanhSach.UseVisualStyleBackColor = true;
             this.btnThemVaoDanhSach.UseWaitCursor = true;
+            this.btnThemVaoDanhSach.Click += new System.EventHandler(this.btnThemVaoDanhSach_Click);
             // 
             // label6
             // 
@@ -186,13 +187,13 @@
             this.label2.Text = "Tổng số điểm";
             this.label2.UseWaitCursor = true;
             // 
-            // textBox1
+            // tongTin
             // 
-            this.textBox1.Location = new System.Drawing.Point(576, 335);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(224, 22);
-            this.textBox1.TabIndex = 4;
-            this.textBox1.UseWaitCursor = true;
+            this.tongTin.Location = new System.Drawing.Point(576, 335);
+            this.tongTin.Name = "tongTin";
+            this.tongTin.Size = new System.Drawing.Size(224, 22);
+            this.tongTin.TabIndex = 4;
+            this.tongTin.UseWaitCursor = true;
             // 
             // textBox2
             // 
@@ -229,6 +230,7 @@
             this.button1.Text = "Tính";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.UseWaitCursor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // btnThoat
             // 
@@ -236,7 +238,7 @@
             this.btnThoat.Name = "btnThoat";
             this.btnThoat.Size = new System.Drawing.Size(127, 42);
             this.btnThoat.TabIndex = 9;
-            this.btnThoat.Text = "Thoát";
+            this.btnThoat.Text = "T&hoát";
             this.btnThoat.UseVisualStyleBackColor = true;
             this.btnThoat.UseWaitCursor = true;
             this.btnThoat.Click += new System.EventHandler(this.btnThoat_Click);
@@ -251,7 +253,7 @@
             this.Controls.Add(this.textBox3);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.tongTin);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.groupBox3);
@@ -279,7 +281,7 @@
         private System.Windows.Forms.ListBox listBox1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox tongTin;
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox textBox3;
